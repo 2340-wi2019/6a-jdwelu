@@ -21,7 +21,7 @@
 
 <h1>Hello, world!</h1>
 <div>Allow me to introduce myself! My name is <?php echo "James Welu"; ?>!</div>
-<div>I am <?php echo "35"; ?> years old and I am a student and Metro Community College.</div>
+<div>I am <?php echo "35"; ?> years old and I am a student at Metro Community College.</div>
 <div>I am currently studying <?php echo "Front End Web Development"; ?> and I hope to graduate in <?php echo "2020"; ?>.</div>
 
 
